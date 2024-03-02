@@ -1,4 +1,4 @@
-# Compose Sample Application
+# Compose Sample Application 
 
 ## NGINX Reverse Proxy -> WSGI -> Python/Flask Backend
 
